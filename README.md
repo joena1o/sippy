@@ -10,6 +10,13 @@ Implement the **Shop With Friends** flow using Flutter. A user should be able to
 
 This Flutter project follows a modular and feature-first architecture, organized for scalability and maintainability. Here's a breakdown of the structure:
 
+
+Run command
+
+Flutter pub get 
+Flutter run
+
+
 ✅ Core Module (lib/core)
 Contains global configurations and setup files:
 

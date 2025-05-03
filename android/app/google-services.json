@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086846451245",
+    "project_id": "sippyca",
+    "storage_bucket": "sippyca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086846451245:android:d12b063c54f9459d7ac2a4",
+        "android_client_info": {
+          "package_name": "com.example.sippy_ca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpqzbfAitaegRvRb9wziMOtuwko1BMrqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

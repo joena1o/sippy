@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.sippy_ca",
+      "sha256_cert_fingerprints": ["5E:CD:53:44:04:0B:FC:AB:3D:89:CD:25:1E:89:62:6B:02:26:87:24:5A:55:01:5D:97:3A:03:72:00:77:9A:03"]
+    }
+  }]
+  
